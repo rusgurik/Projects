@@ -13,7 +13,7 @@ First of all, we need to scrap the data from transfermarket.com and then let's a
 | Project | GitHub | jupyter nbviewer | 
 | :- | :- | :- | 
 | **Scraping the dataset** | [link](https://github.com/rusgurik/Projects/blob/main/2022-23%20Football%20transfer%20window/project_data_scraping.ipynb) | [link](https://nbviewer.org/github/rusgurik/Projects/blob/main/2022-23%20Football%20transfer%20window/project_data_scraping.ipynb)
-| **EDA** | [link](https://github.com/rusgurik/Projects/blob/main/2022-23%20Football%20transfer%20window/project_EDA.ipynb) | [link](https://nbviewer.org/github/rusgurik/Projects/blob/main/2022-23%20Football%20transfer%20window/project_EDA.ipynb#9)
+| **EDA** | [link](https://github.com/rusgurik/Projects/blob/main/2022-23%20Football%20transfer%20window/project_EDA.ipynb) | [link](https://nbviewer.org/github/rusgurik/Projects/blob/main/2022-23%20Football%20transfer%20window/project_EDA.ipynb)
 | **Full project** | [link](https://github.com/rusgurik/Projects/blob/main/2022-23%20Football%20transfer%20window/project_full.ipynb) | [link](https://nbviewer.org/github/rusgurik/Projects/blob/main/2022-23%20Football%20transfer%20window/project_full.ipynb)
 
 Interactive graphs (Plotly) are not visible on GitHub, better open **jupyter nbviewer**.
